@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Patrick Hand SC
+- Font Author: Copyright 2012 The Patrick Hand Authors (mail@patrickwagesreiter.at)
+- Font Source: http://fonts.gstatic.com/s/patrickhandsc/v15/0nkwC9f7MfsBiWcLtY65AWDK873ViSi6JQc7Vg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
