@@ -18,6 +18,7 @@ npm install
 
 ### Create a .env file locally 
 REACT_APP_API_URI=https://your-api-url.com/
+
 REACT_APP_API_SECRET_KEY=your-secret-key
 
 
